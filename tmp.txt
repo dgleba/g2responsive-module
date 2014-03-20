@@ -1,0 +1,18 @@
+start install
+Adding Dashboard
+
+paths:
+
+C:/p2/xampp/htdocs/g2responsive-module
+
+C:\p2\xampp\htdocs\g2responsive-module\modules\g2responsive/install/dashboard/actions.ini
+C:\p2\xampp\htdocs\g2responsive-module\modules\g2responsive/install/nodashboard/actions.ini
+C:\p2\xampp\htdocs\g2responsive-module\modules\g2responsive/actions.ini
+
+C:\p2\xampp\htdocs\g2responsive-module\modules\g2responsive/install/dashboard/settings.ini
+C:\p2\xampp\htdocs\g2responsive-module\modules\g2responsive/install/nodashboard/settings.ini
+C:\p2\xampp\htdocs\g2responsive-module\modules\g2responsive/settings.ini
+
+C:/p2/xampp/htdocs/g2responsive-module/conf
+C:/p2/xampp/htdocs/g2responsive-module/conf/ApplicationDelegate.php
+C:\p2\xampp\htdocs\g2responsive-module\modules\g2responsive/install/conf/ApplicationDelegate.php
