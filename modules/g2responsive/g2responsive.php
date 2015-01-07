@@ -38,7 +38,7 @@ class modules_g2responsive {
   }
 
   function block__head() {
-    echo "<meta name='viewport' content='width=640, initial-scale=1.0'>";
+    echo "<meta name='viewport' content='width=device-width, initial-scale=1, user-scalable=yes'>";
   }
 
   function block__before_search(){
