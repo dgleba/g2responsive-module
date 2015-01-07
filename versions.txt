@@ -1,0 +1,3 @@
+this app is just for developing g2responsive module.
+
+see modules\g2responsive\version.txt

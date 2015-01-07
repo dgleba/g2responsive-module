@@ -1,7 +1,6 @@
 1395070224|modules/g2responsive
 1393553320|.hgignore
 1393553320|.htaccess
-1395070778|.mtimes
 1395070725|Readme.md
 1393553320|Web.config
 1393553320|actions.ini
@@ -51,6 +50,7 @@
 1393508177|modules/g2responsive/css/g2ResponsiveStyles.css
 1395329601|modules/g2responsive/g2responsive.php
 1395330842|modules/g2responsive/installer.php
-1393261161|modules/g2responsive/version.txt
 1393520276|sql/address2.sql
 1395330851|tmp.txt
+1420657666|modules/g2responsive/version.txt
+1420657827|versions.txt
