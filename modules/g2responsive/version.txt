@@ -1,3 +1,4 @@
-ver 18
+ver 19
 
-2013-03-20 from git.
+2015-01-07 - 19 - edited version.txt
+2013-03-20 - 18 - from git.
