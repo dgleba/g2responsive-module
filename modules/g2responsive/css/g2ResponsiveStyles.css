@@ -29,7 +29,7 @@
 }
 
 /*Mobile view*/
-@media (max-width: 655px){
+@media (max-width: 698px){
 
     /*DO NOT DISPLAY*/
     .listing > tbody > tr >  td,
@@ -73,7 +73,7 @@
 }
 
 /*Desktop view*/
-@media (min-width: 656px){
+@media (min-width: 699px){
 
     /*DO NOT DISPLAY*/
     #table-actions-returnall,
