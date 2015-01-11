@@ -1,7 +1,8 @@
-ver 22
+ver 
 
-2015-01-09 - 22 - add .btn-xlg to css to make bootstrap large button larger.
-2015-01-08 - 21 - adjusting viewport and css.
-2015-01-07 - 20 - edited viewport and css. try to fit to mobile screen and still zoom. try to make dashboard, new and list buttons look better.
-2015-01-07 - 19 - edited version.txt
-2013-03-20 - 18 - from git.
+23 - 2015-01-11 - hide a button
+22 - 2015-01-09 - add .btn-xlg to css to make bootstrap large button larger.
+21 - 2015-01-08 - adjusting viewport and css.
+20 - 2015-01-07 - edited viewport and css. try to fit to mobile screen and still zoom. try to make dashboard, new and list buttons look better.
+19 - 2015-01-07 - edited version.txt
+18 - 2013-03-20 - from git.
