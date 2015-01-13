@@ -17,7 +17,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8 */;
 
 --
--- Database: `address1`
+-- Database: `address141`
 --
 -- --------------------------------------------------------
 --
@@ -84,3 +84,12 @@ INSERT INTO `users` (`username`, `password`, `Role`, `comment_fld1`, `created`, 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+
+
+CREATE TABLE IF NOT EXISTS `dashboard` (
+    dashboard_id int(11) not null auto_increment primary key
+);
+INSERT INTO dashboard values (1);
+
+
+
