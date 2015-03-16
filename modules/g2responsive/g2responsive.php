@@ -38,8 +38,8 @@ class modules_g2responsive {
   }
 
   function block__head() {
-    echo "<meta name='viewport' content='width=655, initial-scale=0.6, user-scalable=yes'>";
-    //echo "<meta name='viewport' content='width=device-width, initial-scale=0.9, user-scalable=yes'>";
+    //echo "<meta name='viewport' content='width=655, initial-scale=0.6, user-scalable=yes'>";
+    echo "<meta name='viewport' content='width=device-width, initial-scale=0.9, user-scalable=yes'>";
   }
 
   function block__before_search(){
